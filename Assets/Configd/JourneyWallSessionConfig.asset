@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: JourneyWallSessionConfig
   m_EditorClassIdentifier: 
   MatchCameraFramerate: 1
-  PlaneFindingMode: 1
-  LightEstimationMode: 3
+  PlaneFindingMode: 0
+  LightEstimationMode: 0
   EnableCloudAnchor: 0
   AugmentedImageDatabase: {fileID: 11400000, guid: 6f410a9cff4884751881cbb177c3ebc2,
     type: 2}
-  CameraFocusMode: 0
+  CameraFocusMode: 1
   AugmentedFaceMode: 0
